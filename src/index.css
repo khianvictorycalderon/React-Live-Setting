@@ -1,0 +1,10 @@
+body {
+  background: #2c2c2d;
+}
+
+.container {
+  padding: 1rem;
+  background: black;
+  color: white;
+  width: fit-content;
+}
